@@ -1,0 +1,2 @@
+import gmaps
+gmaps.configure()
